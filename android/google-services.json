@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1008845203797",
+    "firebase_url": "https://curvedark-edb34.firebaseio.com",
+    "project_id": "curvedark-edb34",
+    "storage_bucket": "curvedark-edb34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008845203797:android:ed91fbcc93c9ba6ede27dc",
+        "android_client_info": {
+          "package_name": "com.example.f4or"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008845203797-hub7njaqrks6jf78o1u099kkjsmu33ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpambg8JuBEwxdOeJwvMMRBkuZxXIWOzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008845203797-hub7njaqrks6jf78o1u099kkjsmu33ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
